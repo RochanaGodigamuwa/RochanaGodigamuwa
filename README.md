@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RochanaGodigamuwa
 - 👀 I’m interested in playing video games and all things related in Tech
 - 🌱 I’m currently learning in Informatics Institute Of Technology
-- 💞️ I’m looking to collaborate on everything related in Tech
+- 💞️ I’m looking to collaborate on everything related to Tech
 - 📫 You can reach me on this number 0764047757
 
 
