@@ -1,9 +1,9 @@
-<h1 align="center"><b><i></i></b>Hi 👋, I'm Rochana Godigamuwa , 𝙖 𝙨𝙚𝙘𝙤𝙣𝙙 𝙮𝙚𝙖𝙧 (𝙇𝙚𝙫𝙚𝙡 5) 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙐𝙣𝙙𝙚𝙧𝙜𝙧𝙖𝙙𝙪𝙖𝙩𝙚 𝙨𝙩𝙪𝙙𝙚𝙣𝙩, 👩🏻‍🎓 𝙖𝙩 𝙩𝙝𝙚 𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙘𝙨 𝙄𝙣𝙨𝙩𝙞𝙩𝙪𝙩𝙚 𝙤𝙛 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙮 𝙄𝙄𝙏 𝙖𝙛𝙛𝙞𝙡𝙞𝙖𝙩𝙚𝙙 𝙬𝙞𝙩𝙝 𝙩𝙝𝙚 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮 𝙤𝙛 𝙒𝙚𝙨𝙩𝙢𝙞𝙣𝙨𝙩𝙚𝙧, 𝙐𝙆.</b></i></h1>
+<h1 align="center"><b><i></i></b>Hi 👋, I'm Rochana Godigamuwa , a second year (LEVEL 5) Computer Science Undergarduate student , at the Informatics Institue of Technology IIT affiliated with the University of Westminster , UK.</b></i></h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3></b></i>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rochanagodigmauwa&label=Profile%20views&color=0e75b6&style=flat" alt="rochanagodigmauwa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rochanagodigmauwa" alt="rochanagodigmauwa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rochanagodigamuwa" alt="rochanagodigamuwa" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +15,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rochanagodigmauwa&show_icons=true&locale=en" alt="rochanagodigmauwa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rochanagodigmauwa&" alt="rochanagodigmauwa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rochanagodigamuwa&" alt="rochanagodigamuwa" /></p>
 
 
 <!---
