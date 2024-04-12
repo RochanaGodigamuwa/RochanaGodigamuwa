@@ -22,7 +22,7 @@
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rochanagodigamuwa&show_icons=true&locale=en" alt="rochanagodigamuwa" /><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rochanagodigamuwa&" alt="rochanagodigamuwa" /></p><br>br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rochanagodigamuwa&" alt="rochanagodigamuwa" /></p><br><br>
 
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
